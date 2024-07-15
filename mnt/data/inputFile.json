@@ -1,0 +1,485 @@
+[
+    {
+        "ID": 1,
+        "Name": "John Smith",
+        "Year of Birth": 2020,
+        "University": "MIT",
+        "Major": "Electrical Engineering",
+        "Job Place": "TechCorp",
+        "Connections": [
+            2,
+            7,
+            9
+        ],
+        "Specialties": [
+            "Power Systems",
+            "Signal Processing"
+        ]
+    },
+    {
+        "ID": 2,
+        "Name": "Emily Davis",
+        "Year of Birth": 1998,
+        "University": "Harvard",
+        "Major": "Computer Engineering",
+        "Job Place": "Micro lab",
+        "Connections": [
+            1,
+            4,
+            8
+        ],
+        "Specialties": [
+            "Software Development"
+        ]
+    },
+    {
+        "ID": 3,
+        "Name": "Michael Brown",
+        "Year of Birth": 1989,
+        "University": "Stanford",
+        "Major": "Computer Engineering",
+        "Job Place": "DB lab",
+        "Connections": [
+            4,
+            6
+        ],
+        "Specialties": [
+            "Database Management",
+            "Data Analysis",
+            "Machine Learning"
+        ]
+    },
+    {
+        "ID": 4,
+        "Name": "Sarah Johnson",
+        "Year of Birth": 1992,
+        "University": "Yale",
+        "Major": "Chemistry",
+        "Job Place": "PharmaInc",
+        "Connections": [
+            2,
+            3,
+            5,
+            10
+        ],
+        "Specialties": [
+            "Biochemistry"
+        ]
+    },
+    {
+        "ID": 5,
+        "Name": "David Wilson",
+        "Year of Birth": 1990,
+        "University": "Caltech",
+        "Major": "Physics",
+        "Job Place": "SpaceX",
+        "Connections": [
+            4,
+            6
+        ],
+        "Specialties": [
+            "Astrophysics",
+            "Quantum Mechanics",
+            "Particle Physics"
+        ]
+    },
+    {
+        "ID": 6,
+        "Name": "Arman Saeidi",
+        "Year of Birth": 1980,
+        "University": "IUT",
+        "Major": "Electrical Engineering",
+        "Job Place": "Teacher",
+        "Connections": [
+            3,
+            5
+        ],
+        "Specialties": [
+            "Machine Learning",
+            "Robotics",
+            "Signal Processing"
+        ]
+    },
+    {
+        "ID": 7,
+        "Name": "Anna Green",
+        "Year of Birth": 1995,
+        "University": "Princeton",
+        "Major": "Mathematics",
+        "Job Place": "FinanceCorp",
+        "Connections": [
+            1
+        ],
+        "Specialties": [
+            "Data Science",
+            "Financial Modeling"
+        ]
+    },
+    {
+        "ID": 8,
+        "Name": "Linda Harris",
+        "Year of Birth": 1993,
+        "University": "Oxford",
+        "Major": "Biology",
+        "Job Place": "BioLabs",
+        "Connections": [
+            2
+        ],
+        "Specialties": [
+            "Genetics"
+        ]
+    },
+    {
+        "ID": 9,
+        "Name": "Robert Lee",
+        "Year of Birth": 1985,
+        "University": "Berkeley",
+        "Major": "Mechanical Engineering",
+        "Job Place": "AutoWorks",
+        "Connections": [
+            1,
+            11
+        ],
+        "Specialties": [
+            "Automotive Design"
+        ]
+    },
+    {
+        "ID": 10,
+        "Name": "Mark Taylor",
+        "Year of Birth": 1994,
+        "University": "Cambridge",
+        "Major": "Civil Engineering",
+        "Job Place": "BuildIt",
+        "Connections": [
+            4
+        ],
+        "Specialties": [
+            "Structural Analysis",
+            "Project Management",
+            "Geotechnical Engineering"
+        ]
+    },
+    {
+        "ID": 11,
+        "Name": "Emma Baker",
+        "Year of Birth": 1991,
+        "University": "MIT",
+        "Major": "Chemistry",
+        "Job Place": "PharmaInc",
+        "Connections": [
+            9,
+            12,
+            13
+        ],
+        "Specialties": [
+            "Biochemistry"
+        ]
+    },
+    {
+        "ID": 12,
+        "Name": "Jack White",
+        "Year of Birth": 1988,
+        "University": "Harvard",
+        "Major": "Electrical Engineering",
+        "Job Place": "TechCorp",
+        "Connections": [
+            11
+        ],
+        "Specialties": [
+            "Power Systems",
+            "Signal Processing"
+        ]
+    },
+    {
+        "ID": 13,
+        "Name": "Sophia Clark",
+        "Year of Birth": 1987,
+        "University": "Stanford",
+        "Major": "Computer Engineering",
+        "Job Place": "Micro lab",
+        "Connections": [
+            11,
+            14
+        ],
+        "Specialties": [
+            "Software Development"
+        ]
+    },
+    {
+        "ID": 14,
+        "Name": "Daniel Moore",
+        "Year of Birth": 1993,
+        "University": "Yale",
+        "Major": "Physics",
+        "Job Place": "SpaceX",
+        "Connections": [
+            13,
+            15
+        ],
+        "Specialties": [
+            "Astrophysics",
+            "Quantum Mechanics",
+            "Particle Physics"
+        ]
+    },
+    {
+        "ID": 15,
+        "Name": "Olivia Rodriguez",
+        "Year of Birth": 1990,
+        "University": "Caltech",
+        "Major": "Mathematics",
+        "Job Place": "FinanceCorp",
+        "Connections": [
+            14,
+            16
+        ],
+        "Specialties": [
+            "Data Science",
+            "Financial Modeling"
+        ]
+    },
+    {
+        "ID": 16,
+        "Name": "Ethan Wilson",
+        "Year of Birth": 1984,
+        "University": "Oxford",
+        "Major": "Biology",
+        "Job Place": "BioLabs",
+        "Connections": [
+            15,
+            17
+        ],
+        "Specialties": [
+            "Genetics"
+        ]
+    },
+    {
+        "ID": 17,
+        "Name": "Ava Martinez",
+        "Year of Birth": 1983,
+        "University": "Berkeley",
+        "Major": "Mechanical Engineering",
+        "Job Place": "AutoWorks",
+        "Connections": [
+            16,
+            18
+        ],
+        "Specialties": [
+            "Automotive Design"
+        ]
+    },
+    {
+        "ID": 18,
+        "Name": "James Johnson",
+        "Year of Birth": 1982,
+        "University": "Cambridge",
+        "Major": "Civil Engineering",
+        "Job Place": "BuildIt",
+        "Connections": [
+            17,
+            19
+        ],
+        "Specialties": [
+            "Structural Analysis",
+            "Project Management",
+            "Geotechnical Engineering"
+        ]
+    },
+    {
+        "ID": 19,
+        "Name": "Mia Thompson",
+        "Year of Birth": 1981,
+        "University": "MIT",
+        "Major": "Electrical Engineering",
+        "Job Place": "TechCorp",
+        "Connections": [
+            18,
+            20
+        ],
+        "Specialties": [
+            "Power Systems",
+            "Signal Processing"
+        ]
+    },
+    {
+        "ID": 20,
+        "Name": "Noah Garcia",
+        "Year of Birth": 1999,
+        "University": "Harvard",
+        "Major": "Computer Engineering",
+        "Job Place": "Micro lab",
+        "Connections": [
+            19,
+            21
+        ],
+        "Specialties": [
+            "Software Development"
+        ]
+    },
+    {
+        "ID": 21,
+        "Name": "Isabella Smith",
+        "Year of Birth": 1997,
+        "University": "Stanford",
+        "Major": "Computer Engineering",
+        "Job Place": "DB lab",
+        "Connections": [
+            20,
+            22
+        ],
+        "Specialties": [
+            "Database Management",
+            "Data Analysis",
+            "Machine Learning"
+        ]
+    },
+    {
+        "ID": 22,
+        "Name": "William Brown",
+        "Year of Birth": 1996,
+        "University": "Yale",
+        "Major": "Chemistry",
+        "Job Place": "PharmaInc",
+        "Connections": [
+            21,
+            23,
+            24
+        ],
+        "Specialties": [
+            "Biochemistry"
+        ]
+    },
+    {
+        "ID": 23,
+        "Name": "Sophie Davis",
+        "Year of Birth": 1995,
+        "University": "Caltech",
+        "Major": "Physics",
+        "Job Place": "SpaceX",
+        "Connections": [
+            22,
+            24,
+            25
+        ],
+        "Specialties": [
+            "Astrophysics",
+            "Quantum Mechanics",
+            "Particle Physics"
+        ]
+    },
+    {
+        "ID": 24,
+        "Name": "Logan Wilson",
+        "Year of Birth": 1994,
+        "University": "IUT",
+        "Major": "Electrical Engineering",
+        "Job Place": "Teacher",
+        "Connections": [
+            22,
+            23,
+            25
+        ],
+        "Specialties": [
+            "Machine Learning",
+            "Robotics",
+            "Signal Processing"
+        ]
+    },
+    {
+        "ID": 25,
+        "Name": "Amelia Martinez",
+        "Year of Birth": 1993,
+        "University": "Princeton",
+        "Major": "Mathematics",
+        "Job Place": "FinanceCorp",
+        "Connections": [
+            23,
+            24,
+            26
+        ],
+        "Specialties": [
+            "Data Science",
+            "Financial Modeling"
+        ]
+    },
+    {
+        "ID": 26,
+        "Name": "Lucas Thompson",
+        "Year of Birth": 1992,
+        "University": "Berkeley",
+        "Major": "Mechanical Engineering",
+        "Job Place": "AutoWorks",
+        "Connections": [
+            25,
+            27
+        ],
+        "Specialties": [
+            "Automotive Design"
+        ]
+    },
+    {
+        "ID": 27,
+        "Name": "Sophia Taylor",
+        "Year of Birth": 1991,
+        "University": "Cambridge",
+        "Major": "Civil Engineering",
+        "Job Place": "BuildIt",
+        "Connections": [
+            26,
+            28
+        ],
+        "Specialties": [
+            "Structural Analysis",
+            "Project Management",
+            "Geotechnical Engineering"
+        ]
+    },
+    {
+        "ID": 28,
+        "Name": "Elijah Clark",
+        "Year of Birth": 2020,
+        "University": "MIT",
+        "Major": "Electrical Engineering",
+        "Job Place": "TechCorp",
+        "Connections": [
+            27,
+            29
+        ],
+        "Specialties": [
+            "Power Systems",
+            "Signal Processing"
+        ]
+    },
+    {
+        "ID": 29,
+        "Name": "Avery Rodriguez",
+        "Year of Birth": 1989,
+        "University": "Harvard",
+        "Major": "Computer Engineering",
+        "Job Place": "Micro lab",
+        "Connections": [
+            28,
+            30
+        ],
+        "Specialties": [
+            "Software Development"
+        ]
+    },
+    {
+        "ID": 30,
+        "Name": "Jackson Harris",
+        "Year of Birth": 1988,
+        "University": "Stanford",
+        "Major": "Computer Engineering",
+        "Job Place": "DB lab",
+        "Connections": [
+            29
+        ],
+        "Specialties": [
+            "Database Management",
+            "Data Analysis",
+            "Machine Learning"
+        ]
+    }
+]
